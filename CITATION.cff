@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this agent skill, please cite it using the metadata below."
+title: "Verilog Generator: An Agent Skill for Verilog-2001 RTL Workflows"
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Jiyuan"
+    email: "erie@seu.edu.cn"
+    affiliation: "Southeast University"
+  - family-names: "Li"
+    given-names: "He"
+    affiliation: "Southeast University"
+abstract: "Verilog Generator is a Codex-ready agent skill package for disciplined Verilog-2001 RTL and FPGA design workflows, including confirmed hardware specifications, deterministic runtime helpers, synthesizable RTL generation, FPGA-oriented module design, self-checking testbenches, and validation evidence."
+keywords:
+  - agent skill
+  - Codex
+  - Verilog
+  - Verilog-2001
+  - RTL
+  - FPGA
+  - hardware generation
+repository-code: "https://github.com/Eriemon/verilog-generator"
+url: "https://github.com/Eriemon/verilog-generator"
+version: "0.2.6"
+date-released: "2026-05-29"
+year: 2026
+license: "Apache-2.0"
